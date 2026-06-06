@@ -73,12 +73,15 @@ python main.py
 project/
 │
 ├── main.py
-├── before.jpg
-├── after.jpg
 ├── screenshot.png
 ├── requirements.txt
 └── README.md
 ```
+##  Note
+
+Sample images are not included in this repository.
+
+To use the tool, provide your own pair of images (before and after) with the same size and alignment.
 
 ##  Author
 Bilal Lukman Alkrayem  
