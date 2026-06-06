@@ -20,7 +20,8 @@ It extracts LAB color values from the same region in both images and computes th
 ---
 
 ## Screenshot
-[Screenshot] (screenshot.png) 
+
+![DeltaE Analyzer] (screenshot.png)
 
 ---
 
@@ -52,6 +53,12 @@ It extracts LAB color values from the same region in both images and computes th
 6. Display the color difference  
 
 ---
+## Technologies Used
+
+- Python  
+- OpenCV  
+- NumPy  
+- Scikit-image  
 
 ## How to Run
 
