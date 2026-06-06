@@ -79,7 +79,7 @@ python main.py
 ```
 project/
 │
-├── main.py
+├── main_ciede2000.py
 ├── screenshot.png
 ├── requirements.txt
 └── README.md
