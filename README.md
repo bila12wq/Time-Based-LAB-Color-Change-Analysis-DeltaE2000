@@ -77,12 +77,11 @@ project/
 ├── requirements.txt
 └── README.md
 ```
-##  Note
+## Note
 
 Sample images are not included in this repository.
 
-To use the tool, provide your own pair of images (before and after) with the same size and alignment.
-
+To use the tool, provide your own pair of images (before and after) with consistent size, lighting, and positioning for accurate color comparison.
 ##  Author
 Bilal Lukman Alkrayem  
 
