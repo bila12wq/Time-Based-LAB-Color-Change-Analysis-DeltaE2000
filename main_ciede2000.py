@@ -4,8 +4,8 @@ from skimage import color
 from skimage.color import deltaE_ciede2000
 
 # ===== Load images =====
-image1 = cv2.imread(r"C:\Users\bilal\Downloads\before.png")   # Before image
-image2 = cv2.imread(r"C:\Users\bilal\Downloads\after.png")    # After image
+image1 = cv2.imread(r"before.png")   # Before image
+image2 = cv2.imread(r"after.png")    # After image
 
 if image1 is None or image2 is None:
     print("Error: Could not load images")
